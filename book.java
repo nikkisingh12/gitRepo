@@ -12,5 +12,9 @@ public class Book
 }
 	public int getBookId(){
 	return bookId;
+
+}
+	public void setTitle (int title){
+	this.title = title
 }
 }
